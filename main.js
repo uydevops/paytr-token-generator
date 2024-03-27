@@ -1,9 +1,9 @@
 $(document).ready(function() {
     // Merchant bilgileri
     var merchantConfig = {
-        id: '447681',
-        key: '5BW2C4P28TykhcRF',
-        salt: 'Rj6LRkEBuhq629Ke'
+        id: 'xxxxx',
+        key: 'xxxxx',
+        salt: 'xxxxxx'
     };
 
     // Ödeme seçenekleri
